@@ -6,7 +6,7 @@ Atividade prática do curso de Pós-Graduação em Desenvolvimento Web - IFSP.
 
 ## 📋 Disciplina
 
-**D3DDM - Desenvolvimento para Dispositivos Móveis**
+D3DDM - Desenvolvimento para Dispositivos Móveis
 
 ---
 
@@ -37,6 +37,18 @@ Atividade prática do curso de Pós-Graduação em Desenvolvimento Web - IFSP.
    - Tentar adicionar um nome que já existe no conjunto e imprimir o conjunto após essa tentativa.
    - Remover um nome do conjunto.
    - Verificar se um nome específico está presente no conjunto e imprimir o resultado.
+
+7. Criar um **Map** que armazena a relação entre nomes de alunos e suas notas:
+   - Adicionar três pares de nome e nota ao mapa.
+   - Atualizar a nota de um aluno específico.
+   - Imprimir todos os alunos e suas notas. Usar um `foreach`.
+   - Calcular e imprimir a média das notas dos alunos.
+
+---
+
+## 🖥️ Execução
+
+Para criar e executar os testes, pode-se utilizar o site [DartPad](https://dartpad.dev/).
 
 ---
 
